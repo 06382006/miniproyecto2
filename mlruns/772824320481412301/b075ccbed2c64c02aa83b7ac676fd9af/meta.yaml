@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/772824320481412301/b075ccbed2c64c02aa83b7ac676fd9af/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '772824320481412301'
+lifecycle_stage: active
+run_id: b075ccbed2c64c02aa83b7ac676fd9af
+run_name: invincible-dog-809
+run_uuid: b075ccbed2c64c02aa83b7ac676fd9af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734667344553
+status: 1
+tags: []
+user_id: msantizo

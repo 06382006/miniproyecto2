@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/772824320481412301/5c9569b800bc4ff0baa1c8f8dc89c55b/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '772824320481412301'
+lifecycle_stage: active
+run_id: 5c9569b800bc4ff0baa1c8f8dc89c55b
+run_name: bouncy-pug-915
+run_uuid: 5c9569b800bc4ff0baa1c8f8dc89c55b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734667344553
+status: 1
+tags: []
+user_id: msantizo

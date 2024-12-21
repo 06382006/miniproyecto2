@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/772824320481412301/cebe724ee40a4627a713d0cd85c358cd/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '772824320481412301'
+lifecycle_stage: active
+run_id: cebe724ee40a4627a713d0cd85c358cd
+run_name: clean-crane-362
+run_uuid: cebe724ee40a4627a713d0cd85c358cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734668194289
+status: 1
+tags: []
+user_id: msantizo

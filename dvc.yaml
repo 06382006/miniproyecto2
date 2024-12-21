@@ -1,0 +1,9 @@
+stages:
+  create features:
+    cmd: python src\create_features_and_base_pipeline.py
+
+  train:
+    cmd: python src\configure_and_fit_pipeline.py
+  
+  predict:
+    cmd: python src\predict_pipeline.py

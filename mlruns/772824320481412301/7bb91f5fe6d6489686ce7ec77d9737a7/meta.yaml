@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/772824320481412301/7bb91f5fe6d6489686ce7ec77d9737a7/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '772824320481412301'
+lifecycle_stage: active
+run_id: 7bb91f5fe6d6489686ce7ec77d9737a7
+run_name: flawless-mare-554
+run_uuid: 7bb91f5fe6d6489686ce7ec77d9737a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734668585555
+status: 1
+tags: []
+user_id: msantizo

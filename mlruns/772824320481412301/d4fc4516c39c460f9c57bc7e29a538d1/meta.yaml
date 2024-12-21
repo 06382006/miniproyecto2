@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/772824320481412301/d4fc4516c39c460f9c57bc7e29a538d1/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '772824320481412301'
+lifecycle_stage: active
+run_id: d4fc4516c39c460f9c57bc7e29a538d1
+run_name: nimble-owl-141
+run_uuid: d4fc4516c39c460f9c57bc7e29a538d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734668194289
+status: 1
+tags: []
+user_id: msantizo

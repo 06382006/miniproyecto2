@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/772824320481412301/0b6555f3cc364cf8aea8b84fd4b8232c/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '772824320481412301'
+lifecycle_stage: active
+run_id: 0b6555f3cc364cf8aea8b84fd4b8232c
+run_name: persistent-fish-830
+run_uuid: 0b6555f3cc364cf8aea8b84fd4b8232c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734668585555
+status: 1
+tags: []
+user_id: msantizo

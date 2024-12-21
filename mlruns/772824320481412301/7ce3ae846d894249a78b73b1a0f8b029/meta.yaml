@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/772824320481412301/7ce3ae846d894249a78b73b1a0f8b029/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '772824320481412301'
+lifecycle_stage: active
+run_id: 7ce3ae846d894249a78b73b1a0f8b029
+run_name: casual-bat-639
+run_uuid: 7ce3ae846d894249a78b73b1a0f8b029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734668194289
+status: 1
+tags: []
+user_id: msantizo
