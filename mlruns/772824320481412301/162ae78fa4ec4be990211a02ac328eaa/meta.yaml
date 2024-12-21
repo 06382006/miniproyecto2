@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/772824320481412301/162ae78fa4ec4be990211a02ac328eaa/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '772824320481412301'
+lifecycle_stage: active
+run_id: 162ae78fa4ec4be990211a02ac328eaa
+run_name: handsome-mouse-791
+run_uuid: 162ae78fa4ec4be990211a02ac328eaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734668194289
+status: 1
+tags: []
+user_id: msantizo

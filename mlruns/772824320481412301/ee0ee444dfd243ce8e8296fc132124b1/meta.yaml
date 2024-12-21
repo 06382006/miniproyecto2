@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/772824320481412301/ee0ee444dfd243ce8e8296fc132124b1/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '772824320481412301'
+lifecycle_stage: active
+run_id: ee0ee444dfd243ce8e8296fc132124b1
+run_name: victorious-zebra-141
+run_uuid: ee0ee444dfd243ce8e8296fc132124b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734668194289
+status: 1
+tags: []
+user_id: msantizo

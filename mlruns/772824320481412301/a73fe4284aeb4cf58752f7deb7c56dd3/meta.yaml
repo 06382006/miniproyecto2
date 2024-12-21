@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/772824320481412301/a73fe4284aeb4cf58752f7deb7c56dd3/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '772824320481412301'
+lifecycle_stage: active
+run_id: a73fe4284aeb4cf58752f7deb7c56dd3
+run_name: carefree-skunk-421
+run_uuid: a73fe4284aeb4cf58752f7deb7c56dd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734668585555
+status: 1
+tags: []
+user_id: msantizo

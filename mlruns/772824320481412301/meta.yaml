@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/772824320481412301
+creation_time: 1734667285124
+experiment_id: '772824320481412301'
+last_update_time: 1734667285124
+lifecycle_stage: active
+name: Credit Default Predict Model

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/772824320481412301/40214333e88945ce8d3fa68f0215d1d1/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '772824320481412301'
+lifecycle_stage: active
+run_id: 40214333e88945ce8d3fa68f0215d1d1
+run_name: traveling-croc-335
+run_uuid: 40214333e88945ce8d3fa68f0215d1d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734668194289
+status: 1
+tags: []
+user_id: msantizo
